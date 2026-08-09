@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mf-2001",
+    "ref": "SCA-E-118",
+    "name": "Support multi-zone scheduling",
+    "product": "Aurora Sensor",
+    "pi": "2026 Q3",
+    "status": "Planned",
+    "effort": "L",
+    "role": "Owner",
+    "source": "Aha"
+  },
+  {
+    "id": "mf-2002",
+    "ref": "SCA-E-103",
+    "name": "Add offline caching for readings",
+    "product": "Aurora Sensor",
+    "pi": "2026 Q3",
+    "status": "In Progress",
+    "effort": "M",
+    "role": "Owner",
+    "source": "Aha"
+  },
+  {
+    "id": "mf-2003",
+    "ref": "SCA-E-094",
+    "name": "Redesign onboarding flow",
+    "product": "Comet Hub",
+    "pi": "2026 Q3",
+    "status": "Planned",
+    "effort": "M",
+    "role": "Owner",
+    "source": "Aha"
+  },
+  {
+    "id": "mf-2004",
+    "ref": "SCA-E-087",
+    "name": "Matter protocol certification",
+    "product": "Comet Hub",
+    "pi": "2026 Q3",
+    "status": "At Risk",
+    "effort": "XL",
+    "role": "Owner",
+    "source": "Aha"
+  },
+  {
+    "id": "mf-2005",
+    "ref": "SCA-E-071",
+    "name": "Reduce cold-start latency",
+    "product": "Nimbus Gateway",
+    "pi": "2026 Q4",
+    "status": "Planned",
+    "effort": "S",
+    "role": "Collaborator",
+    "source": "Aha"
+  },
+  {
+    "id": "mf-2006",
+    "ref": "SCA-E-062",
+    "name": "Add role-based admin controls",
+    "product": "Nimbus Gateway",
+    "pi": "2026 Q4",
+    "status": "Planned",
+    "effort": "M",
+    "role": "Collaborator",
+    "source": "Aha"
+  },
+  {
+    "id": "mf-1785649890181",
+    "ref": "SCA-E-055",
+    "name": "check this one",
+    "product": "sca",
+    "pi": "2026 Q3",
+    "status": "Planned",
+    "effort": "M",
+    "role": "Owner",
+    "source": "Aha"
+  }
+]

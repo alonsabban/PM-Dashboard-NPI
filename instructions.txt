@@ -1,0 +1,11 @@
+D:\Programming\claude\PM Dashboard\.scratch\PM-Dashboard.zip (0.1 MB — source only, no node_modules)
+
+Send that to yourself however's easiest (email, USB, cloud drive). On the other PC:
+
+Install Node.js (LTS) if it's not already there — that's the only prerequisite.
+Unzip it anywhere.
+Open a terminal in that folder and run:
+
+npm install
+npm run dev
+Open http://localhost:5173 — that's the dashboard. It runs entirely locally on sample data (no real Asana/Aha connection needed).

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "er-3001",
+    "ref": "SCA-I-418",
+    "title": "Export readings to CSV",
+    "product": "Secure Cloud Access",
+    "subCategory": "Audit",
+    "requestedBy": "Northwind Retail",
+    "score": 92,
+    "status": "Planned"
+  },
+  {
+    "id": "er-3002",
+    "ref": "SCA-I-391",
+    "title": "Add webhook for threshold alerts",
+    "product": "Secure Cloud Access",
+    "subCategory": "Connect Cloud Environment",
+    "requestedBy": "Acme Logistics",
+    "score": 87,
+    "status": "Planned"
+  },
+  {
+    "id": "er-3003",
+    "ref": "SCA-I-355",
+    "title": "Bulk device provisioning via CSV import",
+    "product": "Secure Cloud Access",
+    "subCategory": "Secure Cloud Access",
+    "requestedBy": "Globex Facilities",
+    "score": 81,
+    "status": "Planned"
+  },
+  {
+    "id": "er-3004",
+    "ref": "SCA-I-302",
+    "title": "Dark mode for admin console",
+    "product": "Secure Cloud Access",
+    "subCategory": "Audit",
+    "requestedBy": "Internal",
+    "score": 54,
+    "status": "Analyzing"
+  },
+  {
+    "id": "er-3005",
+    "ref": "SCA-I-274",
+    "title": "SSO via SAML",
+    "product": "Secure Cloud Access",
+    "subCategory": "Connect Cloud Environment",
+    "requestedBy": "Initech",
+    "score": 76,
+    "status": "Planned"
+  },
+  {
+    "id": "er-3006",
+    "ref": "SCA-I-241",
+    "title": "Configurable data retention policy",
+    "product": "Secure Cloud Access",
+    "subCategory": "Secure Cloud Access",
+    "requestedBy": "Umbrella Corp",
+    "score": 68,
+    "status": "Analyzing"
+  }
+]

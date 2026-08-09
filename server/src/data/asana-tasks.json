@@ -1,0 +1,56 @@
+[
+  {
+    "id": "npi-1001",
+    "name": "Finalize DVT test plan",
+    "project": "NPI - Aurora Sensor",
+    "assignee": "You",
+    "status": "On Track",
+    "dueDate": "2026-08-08",
+    "notes": "Waiting on hardware team sign-off before test plan is locked."
+  },
+  {
+    "id": "npi-1002",
+    "name": "Approve BOM cost delta",
+    "project": "NPI - Aurora Sensor",
+    "assignee": "You",
+    "status": "At Risk",
+    "dueDate": "2026-08-04",
+    "notes": "Supplier quote came back 6% over target, needs a decision."
+  },
+  {
+    "id": "npi-1003",
+    "name": "Review packaging artwork proof",
+    "project": "NPI - Comet Hub",
+    "assignee": "You",
+    "status": "Blocked",
+    "dueDate": "2026-08-12",
+    "notes": "Blocked on legal review of new compliance label."
+  },
+  {
+    "id": "npi-1004",
+    "name": "Sign off on PRD v3",
+    "project": "NPI - Comet Hub",
+    "assignee": "You",
+    "status": "Done",
+    "dueDate": "2026-07-28",
+    "notes": ""
+  },
+  {
+    "id": "npi-1005",
+    "name": "Coordinate EVT build kickoff",
+    "project": "NPI - Nimbus Gateway",
+    "assignee": "You",
+    "status": "On Track",
+    "dueDate": "2026-08-15",
+    "notes": "Build slot confirmed with contract manufacturer."
+  },
+  {
+    "id": "npi-1006",
+    "name": "Resolve firmware regression blocking EVT",
+    "project": "NPI - Nimbus Gateway",
+    "assignee": "You",
+    "status": "At Risk",
+    "dueDate": "2026-08-06",
+    "notes": "Eng team investigating, ETA unclear."
+  }
+]
